@@ -1,0 +1,29 @@
+;*** BEGIN **********************************************************
+;**                                                                **
+;** Automatically generated on: Mon Nov 02 20:19:28 2009           **
+;**                                                                **
+;** MakeCAB Version: (32) 1.00.0600 (11/22/96)                     **
+;**                                                                **
+;*** BEGIN **********************************************************
+[disk list]
+1,Disk 1
+[cabinet list]
+1,1,Windows core.CAB
+[file list]
+1,0,Setup.Lst,3617
+1,0,setup.exe,140800
+1,1,Windows core.exe,28672
+1,1,msvbvm60.dll,1392671
+1,1,oleaut32.dll,553472
+1,1,olepro32.dll,83456
+1,1,asycfilt.dll,65024
+1,1,stdole2.tlb,17920
+1,1,COMCAT.DLL,22288
+1,1,SETUP1.EXE,286720
+1,1,VB6STKIT.DLL,102912
+1,1,ST6UNST.EXE,73216
+;*** END ************************************************************
+;**                                                                **
+;** Automatically generated on: Mon Nov 02 20:19:28 2009           **
+;**                                                                **
+;*** END ************************************************************

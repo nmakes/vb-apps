@@ -1,0 +1,11 @@
+F:\C++Pro\VB\MYAV2.0\MYAV2.0\MYAV2.0\bin\Debug\MYAV2.0.exe
+F:\C++Pro\VB\MYAV2.0\MYAV2.0\MYAV2.0\bin\Debug\MYAV2.0.pdb
+F:\C++Pro\VB\MYAV2.0\MYAV2.0\MYAV2.0\bin\Debug\MYAV2.0.xml
+F:\C++Pro\VB\MYAV2.0\MYAV2.0\MYAV2.0\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C++Pro\VB\MYAV2.0\MYAV2.0\MYAV2.0\obj\x86\Debug\MYAV2._0.Form1.resources
+F:\C++Pro\VB\MYAV2.0\MYAV2.0\MYAV2.0\obj\x86\Debug\MYAV2._0.Resources.resources
+F:\C++Pro\VB\MYAV2.0\MYAV2.0\MYAV2.0\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\C++Pro\VB\MYAV2.0\MYAV2.0\MYAV2.0\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\C++Pro\VB\MYAV2.0\MYAV2.0\MYAV2.0\obj\x86\Debug\MYAV2.0.exe
+F:\C++Pro\VB\MYAV2.0\MYAV2.0\MYAV2.0\obj\x86\Debug\MYAV2.0.xml
+F:\C++Pro\VB\MYAV2.0\MYAV2.0\MYAV2.0\obj\x86\Debug\MYAV2.0.pdb

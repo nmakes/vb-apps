@@ -1,0 +1,94 @@
+[Root]
+Most Recent Package=Multipad
+
+
+[Package|Multipad|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Naveen\My own made setups
+
+[Package|Multipad|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Multipad|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Multipad|Files Found]
+
+[Package|Multipad|Files Released]
+
+[Package|Multipad|Missing Dependency Information]
+
+[Package|Multipad|Out-of-Date Dependency Information]
+
+[Package|Multipad|Files Added]
+D:\Naveen\Applications\Readme.txt=
+
+[Package|Multipad|Files Removed]
+
+[Package|Multipad|Files In Project]
+D:\Naveen\VB Apps\Multipad.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\Naveen\Applications\Readme.txt=Yes
+
+[Package|Multipad|Configure Registry Files]
+Applicable=No
+
+[Package|Multipad|Configure Remote Servers]
+Applicable=No
+
+[Package|Multipad|Install Locations]
+D:\Naveen\VB Apps\Multipad.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Naveen\Applications\Readme.txt=$(AppPath)
+
+[Package|Multipad|Configure Shared Files]
+Applicable=Yes
+D:\Naveen\VB Apps\Multipad.exe=Yes
+D:\Naveen\Applications\Readme.txt=No
+
+[Package|Multipad|Distribution]
+Type=multi
+Size=720 KB
+Title=Multipad
+
+[Package|Multipad|IconGroups]
+Group0=Multipad
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Multipad|Multipad]
+Icon1=Multipad.exe
+Title1=Multipad
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Multipad|Package]
+PackageFolder=D:\Naveen\My own made setups
+ProjectFolder=D:\Naveen\Applications
+ServerSideCab=
+File1=D:\Naveen\My own made setups\setup.exe
+File2=D:\Naveen\My own made setups\Setup.Lst
+File3=D:\Naveen\My own made setups\Multip1.CAB
+File4=D:\Naveen\My own made setups\Multip2.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz

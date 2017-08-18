@@ -1,0 +1,90 @@
+[Root]
+Most Recent Package=Calculator
+
+
+[Package|Calculator|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Naveen\Applications\Calculator\Calculator
+
+[Package|Calculator|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Calculator|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Calculator|Files Found]
+
+[Package|Calculator|Files Released]
+
+[Package|Calculator|Missing Dependency Information]
+
+[Package|Calculator|Out-of-Date Dependency Information]
+
+[Package|Calculator|Files Added]
+
+[Package|Calculator|Files Removed]
+
+[Package|Calculator|Files In Project]
+D:\Naveen\Applications\Calculator\Calculator.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Calculator|Configure Registry Files]
+Applicable=No
+
+[Package|Calculator|Configure Remote Servers]
+Applicable=No
+
+[Package|Calculator|Install Locations]
+D:\Naveen\Applications\Calculator\Calculator.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Calculator|Configure Shared Files]
+Applicable=Yes
+D:\Naveen\Applications\Calculator\Calculator.exe=Yes
+
+[Package|Calculator|Distribution]
+Type=multi
+Size=720 KB
+Title=Calculator
+
+[Package|Calculator|IconGroups]
+Group0=Calculator
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Calculator|Calculator]
+Icon1=Calculator.EXE
+Title1=Calculator
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Calculator|Package]
+PackageFolder=D:\Naveen\Applications\Calculator\Calculator
+ProjectFolder=D:\Naveen\Applications\Calculator
+ServerSideCab=
+File1=D:\Naveen\Applications\Calculator\Calculator\setup.exe
+File2=D:\Naveen\Applications\Calculator\Calculator\Setup.Lst
+File3=D:\Naveen\Applications\Calculator\Calculator\Calcul1.CAB
+File4=D:\Naveen\Applications\Calculator\Calculator\Calcul2.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
